@@ -7,7 +7,11 @@ The purpose of this project was to introduce Postman and API testing, inlcuding:
 * creating environment variables
 
 ### First API GET request
-![first api test](https://github.com/MadeleineBousfield/PostmanApiIntrodiction/blob/main/firstAPIRequest.png)
+![first api get test](https://github.com/MadeleineBousfield/PostmanApiIntrodiction/blob/main/firstAPIRequest.png)
+
+### First API POST request
+![first api post test]()
+
 
 ### First collection run
 ![first collection run](https://github.com/MadeleineBousfield/PostmanApiIntrodiction/blob/main/firstCollectionTest.png)
