@@ -1,6 +1,6 @@
 # Introduction to API testing using Postman
-This project was completed as part of the Complete 2024 Software Testing Bootcamp. 
-The purpose of this project was to introduce Postman and API testing, inlcuding:
+This project was completed as part of a [Udemy course: The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/?couponCode=LETSLEARNNOWPP). 
+<br><br>The purpose of this project was to introduce Postman and API testing, including:
 * creating GET and POST requests
 * writing and running JSON tests
 * running collection tests
